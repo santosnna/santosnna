@@ -12,9 +12,9 @@
 </p>
 <br/>
 
-<h2 align="left">Languages and Tools I work with:</h2>
-<p align="left">
- <h3>Backend</h3>
+<h2 align="center">Languages and Tools I work with:</h2>
+
+<p align="center">
  <!-- Node.js -->
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <!-- Express.js -->
@@ -23,8 +23,6 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  <!-- MySQL -->
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- 
- <h3>Frontend</h3>
  <!-- HTML5 -->
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <!-- CSS3 -->
@@ -33,19 +31,16 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <!-- Bootstrap -->
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- 
- <h3>Testing and tools</h3>
  <!-- Jest -->
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
  <!-- Postman -->
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-<br/>
 
-<h2 align="left">I am interested in learning:</h2>
-<br/>
-<p align="left">
+<h2 align="center">I am interested in learning:</h2>
+
+<p align="center">
   <!-- Python -->
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <!-- TypeScript -->
@@ -72,18 +67,11 @@
  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 </p>
 
-<br/>
-<br/>
+---
 
-#
+<p align="right">It looks like I had your curiosity. I hope now I have your attention. :)</p>
 
-<p align="center">It looks like I had your curiosity. I hope now I have your attention. :)</p>
 <!-- 
-**santosnna/santosnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-
-Looks like I had your curiosity but now I have your attention!
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

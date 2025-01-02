@@ -1,18 +1,14 @@
-<h1 align="center">Hi, I'm Nathan</h1>
+<h1 align="">I am Nathan.</h1>
 <h3 align="center">Software developer. Born in Brazil. Living in Germany.</h3>
 <br/>
 
-<p align="center">
- 
-  - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
-
-  - <a href="https://linkedin.com/in/nathan-santos-a512a053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-santos-a512a053" height="15" width="20" /></a> You can **reach me** and **connect** with me on **[LinkedIn](https://www.linkedin.com/in/nathan-santos-a512a053/)**
-
-  - ⚡ Fun fact **I love Judo, Yoga and learning languages** 
+<p> I am currently focused on gaining hands-on experience in software development, with an emphasis on JavaScript or Java backend projects. </p>
+<p>
+ **Connect** with me on  <a href="https://linkedin.com/in/nathan-santos-a512a053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-santos-a512a053" height="15" width="20" /></a> [LinkedIn](https://www.linkedin.com/in/nathan-santos-a512a053/)
 </p>
 <br/>
 
-<h2 align="center">Languages and Tools I work with:</h2>
+<h2 align="">Tech Stack</h2>
 
 <p align="center">
  <!-- Node.js -->
@@ -38,7 +34,7 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="center">I am interested in learning:</h2>
+<h2 align="">Also interested</h2>
 
 <p align="center">
   <!-- Python -->

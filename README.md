@@ -4,7 +4,7 @@
 
 <p> I am currently focused on gaining hands-on experience in software development, with an emphasis on JavaScript or Java backend projects. </p>
 <p>
- **Connect** with me on  <a href="https://linkedin.com/in/nathan-santos-a512a053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-santos-a512a053" height="15" width="20" /></a> [LinkedIn](https://www.linkedin.com/in/nathan-santos-a512a053/)
+ <strong>Connect</strong> with me on  <a href="https://linkedin.com/in/nathan-santos-a512a053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-santos-a512a053" height="15" width="20" /></a> <a href="https://linkedin.com/in/nathan-santos-a512a053">LinkedIn</a>.
 </p>
 <br/>
 
